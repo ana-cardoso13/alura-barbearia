@@ -1,6 +1,6 @@
 body {
     background: #3808bb;
-
+}
 
 h1 {
     text-align: center;
@@ -11,5 +11,6 @@ p {
 }
 
 #missao {
-   color:blue;
+ color:blue;
 font-size: 18px;
+}
