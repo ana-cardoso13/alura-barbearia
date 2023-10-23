@@ -1,5 +1,5 @@
-body {
-    background: #3808bb;
+.principal {
+background: #3808bbb
 }
 
 h1 {
@@ -11,11 +11,29 @@ p {
 }
 
 #missao {
- color:blue;
+ color:white;
 font-size: 18px;
 }
 
 #banner{
  width: 100%;
 }
+
+.beneficios-titulo {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios{
+    background-color: white;
+}
+  
+
+
+
+
+
 
