@@ -30,10 +30,18 @@ font-size: 18px;
 .beneficios{
     background-color: white;
 }
-  
 
+ul {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-right: 15%;
+}
+ 
+.beneficios-imagem {
+    width: 50%;
+}
 
-
-
-
-
+.titulo {
+    padding-left: 20px;
+}
